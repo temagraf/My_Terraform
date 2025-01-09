@@ -37,13 +37,13 @@
 
 5)
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/1-2.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/1-2.png)
 
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/1.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/1.png)
 
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/1-3.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/1-3.png)
 
 6) Параметры  preemptible = true - это прерываемая ВМ, т.е. работает не более 24 часов и может быть остановлена Compute Cloud в любой момент.
 Параметр core_fraction = 5 - указывает базовую производительность ядра в процентах. Указывается для экономии ресурсов.
