@@ -235,7 +235,7 @@ variable "vm_web_preemptible" {
 
 ```
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/2.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/2.png)
 
 
 ---
@@ -256,9 +256,9 @@ variable "vm_web_preemptible" {
 3) Применил изменения. Создал еще одну виртуальную машину.
 
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/3.1%20ДЗ.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/3.1%20ДЗ.png)
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/3%20.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/3%20.png)
 
 
 ---
@@ -297,7 +297,7 @@ output "vm_instances_info" {
 Принял изменение.
 Также видим вывод значений ip-адресов команды terraform output.
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/4.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/4.png)
 
 
 ---
@@ -324,7 +324,7 @@ locals {
 
 ```
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/5%20-%20locals.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/5%20-%20locals.png)
 
 
 ---
@@ -572,4 +572,4 @@ terraform apply tfplan
 
 ```
 
-![image.jpg](https://github.com/temagraf/My_Terraform//blob/main/6.png)
+![image.jpg](https://github.com/temagraf/My_Terraform/blob/main/6.png)
